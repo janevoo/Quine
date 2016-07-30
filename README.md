@@ -9,6 +9,7 @@ List of repositories:
 * [CSS](https://github.com/SlexAxton/CSSCSS)
 * [Java](https://github.com/cwtong/Quine)
 * [JavaScript](https://github.com/pkrumins/node-quine) (as node.js package)
+* [JavaScript](https://github.com/nmrugg/quine) (shortest and the most strange)
 * [Haskell](https://github.com/Florian939/quine)
 * [Python](https://github.com/j-wilkin/Quine)
 * [Ruby](https://github.com/markburns/quine)
